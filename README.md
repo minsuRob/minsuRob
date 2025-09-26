@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning **rn, nestjs**
 
 - 📫 How to reach me **minsu.rob@gmail.com**
-
+- ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=minsurob&theme=default) ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=minsurob&theme=default)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
