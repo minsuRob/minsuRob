@@ -1,13 +1,21 @@
-<h1 align="center">Hi 👋, I'm robert lee</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **rn, nestjs**
+<div align= "center">
+          </div>
+    <h2 align="center">📧 Email 📧</h2>
+<p align="center">
+  <Strong> minsu.rob@gmail.com </Strong>
+</p><br>
+<div align= "center">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> ✨ Tech Stack ✨ </h2>
+<div align="center">
+  <img src="https://img.shields.io/badge/react_native-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
+  <img src="https://img.shields.io/badge/typescript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/-NestJs-ea2845?style=for-the-badge&logo=nestjs&logoColor=white" />&nbsp
+</div>
+    </div><br>
+<div align= "center">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📋 Stat 📋 </h2>
+    
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=minsurob&theme=default) ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=minsurob&theme=default)
 
-- 📫 How to reach me **minsu.rob@gmail.com**
-- ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=minsurob&theme=default) ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=minsurob&theme=default)
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<br>
